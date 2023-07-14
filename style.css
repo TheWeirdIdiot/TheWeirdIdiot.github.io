@@ -1,0 +1,33 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+*{
+  font-family: "courier new";
+}
+li a{
+  background-color: #679289;
+  border: solid #1D7874 4px;
+  text-decoration: none;
+  color:#071E22
+}
+li{
+  list-style: none;
+  font-size: 20px;
+  padding: 4px;
+}
+ul{
+  display: flex;
+  justify-content: space-evenly;
+  background-color: #ebebeb;
+  height: 50px;
+  border-radius: 10px;
+  padding-top: 20px
+}
+h1{
+  color: #071E22;
+}
+img{
+  height: 200px;
+  width: 1000px;
+}
